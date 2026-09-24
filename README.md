@@ -8,7 +8,7 @@ The folder names below are the friendly names used for this learning path. A `Pl
 
 | Day | Topic | Folder | Status |
 | --- | --- | --- | --- |
-| 1 | Terraform provider and Azure resources | [01-provider-and-azure-resources](./Day%201%20-%20Provider/) | Complete |
+| 1 | Terraform provider and Azure resources | `02-azure-storage-account` | Complete |
 | 2 | Create an Azure Storage Account | `02-azure-storage-account` | Planned |
 | 3 | Manage Terraform state with Azure Storage | `03-remote-state-with-azure-storage` | Planned |
 | 4 | Input, output, and local variables | `04-terraform-variables` | Planned |
